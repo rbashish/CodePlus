@@ -1,0 +1,5 @@
+@echo off 
+echo Welcome
+echo.
+echo.
+pause>nul
