@@ -1,7 +1,7 @@
 sudo: false
-language: batch
-batch:
+language: php
+php:
 - 5.5
 - 5.4
 - hhvm
-script: phpunit Test.bat
+script: phpunit Test.php
