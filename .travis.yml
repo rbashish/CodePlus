@@ -1,6 +1,6 @@
-language: php
-php:
+language: batch
+batch:
 - 5.5
 - 5.4
 - hhvm
-script: phpunit Test.php
+script: phpunit Test.bat
