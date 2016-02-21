@@ -1,6 +1,6 @@
 sudo: false
 language: batchfile
-batchfile:
+bat:
 - 1.5
 - 1.4
 script:code8.bat
