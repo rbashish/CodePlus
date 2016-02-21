@@ -1,3 +1,4 @@
+sudo: false
 language: batch
 batch:
 - 5.5
