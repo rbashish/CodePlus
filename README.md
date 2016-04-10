@@ -4,6 +4,7 @@ CodePlus
 
 [![Build Status](https://travis-ci.org/rbashish/CodePlus.svg?branch=master)](https://travis-ci.org/rbashish/CodePlus)
 [![Build Status](https://img.shields.io/badge/CodePlus-progress-brightgreen.svg)](http://rbashish.github.io/CodePlus/)
+[![Release](https://img.shields.io/badge/release-v1.0--alpha-blue.svg)](https://github.com/rbashish/CodePlus/releases)
 
 **Welcome to CodePlus.**
 
